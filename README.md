@@ -294,20 +294,6 @@ print(f"Found {data['total_detected']} objects in {data['inference_ms']}ms")
 
 ---
 
-## 📄 Research Paper
-
-A full IEEE-format research paper is included in the repository covering:
-
-- Mathematical derivation of the PSF matched-filter detection threshold
-- SDSS AB magnitude system and spectral energy distribution encoding
-- SSD-lineage loss functions: Smooth-L1, CIoU, Distribution Focal Loss
-- Complete YOLOv11s architecture specification
-- Confusion matrices, training curves, and SOTA comparison tables
-
-`📄 IEEE_Paper_AstroDetect.docx`
-
----
-
 ## 🛠️ Tech Stack
 
 | Component | Technology |
