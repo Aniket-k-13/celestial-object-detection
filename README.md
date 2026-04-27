@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![AstroDetect Banner](https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?w=1200&q=80)
+![AstroDetect Banner](<img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/760e1c00-527d-4da1-8455-e0b6ec9a9a42" />
+)
 
 [![HuggingFace Space](https://img.shields.io/badge/🤗%20HuggingFace-Space-blue?style=for-the-badge)](https://huggingface.co/spaces/aniketkhandare/ASTRODETECT)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
