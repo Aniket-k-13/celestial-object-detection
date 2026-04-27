@@ -1,7 +1,3 @@
----
-## Live Demo :https://huggingface.co/spaces/aniketkhandare/ASTRODETECT
-
----
 
 ---
 title: AstroDetect
