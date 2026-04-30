@@ -344,10 +344,10 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-
+<div align="center">
 
 Made with ❤️ and a lot of telescope images
 
 **[⭐ Star this repo](https://github.com/YOUR_USERNAME/celestial-object-detection)** if you found it useful
 
-
+</div>
