@@ -1,4 +1,4 @@
-# 🔭 AstroDetect — Astronomical Object Detection & Classification
+# 🔭 AstroDetect:Astronomical Object Detection & Classification
 
 <div align="center">
 
