@@ -74,14 +74,11 @@ INPUT IMAGE
           Combine all detections → Annotated output image
 ```
 
-
 > **Why hybrid?** Stars are 3–8 pixel PSF profiles — architecturally undetectable by YOLO (minimum grid cell = 8px). DAOStarFinder handles point sources; YOLOv11s handles extended objects. Neither can do both.
-
 
 ---
 
 ## 📁 Project Structure
-
 
 ```
 CelestialDetector/
