@@ -279,7 +279,6 @@ with open("result.jpg", "wb") as f:
 print(response.headers["X-Class-Counts"])
 # → {"STAR": 475, "GALAXY": 25, "QSO": 1, "nebula": 1}
 ```
-
 ### Example: get JSON detections
 
 ```python
@@ -291,8 +290,6 @@ response = requests.post(
 data = response.json()
 print(f"Found {data['total_detected']} objects in {data['inference_ms']}ms")
 ```
-
----
 
 ## 🛠️ Tech Stack
 
