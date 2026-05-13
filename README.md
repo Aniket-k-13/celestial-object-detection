@@ -323,13 +323,10 @@ Pillow >= 10.0.0
 numpy >= 1.24.0
 ```
 
----
-
 ## 📜 License
 
 MIT License — see [LICENSE](LICENSE) for details.
 
----
 
 ## 🙏 Acknowledgements
 
