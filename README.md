@@ -40,6 +40,7 @@
 
 ---
 
+
 ## 🏗️ Architecture
 
 The system uses a **3-stage hybrid pipeline** designed around the physics of telescope imagery:
@@ -131,7 +132,8 @@ Download from Google Drive and place in `model/`:
 |------|------|--------|
 | `resnet50_classifier.pt` | 98.6 MB | Google Drive / CelestialV2 |
 | `yolo11s_cosmica.pt` | 19.2 MB | Kaggle output tab |
-| `cosmica_classes.txt` | < 1 KB | Kaggle output tab |
+| `cosmica_classes.txt` | < 1 KB | Kaggle output tab |4
+
 
 ### 4. Run the backend
 
