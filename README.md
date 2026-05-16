@@ -41,6 +41,8 @@
 ---
 
 
+
+
 ## 🏗️ Architecture
 
 The system uses a **3-stage hybrid pipeline** designed around the physics of telescope imagery:
@@ -106,6 +108,7 @@ CelestialDetector/
 ---
 
 ## 🚀 Quick Start
+
 
 ### 1. Clone the repo
 
