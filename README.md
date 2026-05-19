@@ -23,7 +23,7 @@
 |-------|------|-------|-----------|
 | ResNet-50 | Point-source classification | **88.15% accuracy** | SDSS DR17 |
 | YOLOv11s | Extended-object detection | **72.2% mAP@50** | COSMICA test set |
-| vs. SOTA | COSMICA benchmark | **+10.3 pp improvement** | Prior best: 61.87% |
+| vs. SOTA | COSMICA benchmark | **+10.3 pp improvement** | Prior best: 61.88% |
 
 ---
 
