@@ -17,6 +17,8 @@
 
 ---
 
+
+
 ## 📊 Results at a Glance
 
 | Model | Task | Score | Benchmark |
@@ -38,7 +40,9 @@
 | 🔵 **Globular Cluster** | YOLOv11s | Dense spherical star concentrations |
 | ☄️ **Comet** | YOLOv11s | Icy bodies with tails |
 
+
 ---
+
 
 
 
