@@ -17,8 +17,6 @@
 
 ---
 
-
-
 ## 📊 Results at a Glance
 
 | Model | Task | Score | Benchmark |
